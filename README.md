@@ -1,8 +1,8 @@
 # MailMug PHPUnit
 
-[![Latest Version](https://img.shields.io/packagist/v/mailmug/phpunit-email.svg)](https://packagist.org/packages/mailmug/phpunit-email)
-[![PHP Version](https://img.shields.io/packagist/php-v/mailmug/phpunit-email.svg)](https://packagist.org/packages/mailmug/phpunit-email)
+
 [![License](https://img.shields.io/github/license/mailmug/phpunit-email.svg)](https://github.com/mailmug/phpunit-email/blob/main/LICENSE)
+
 PHPUnit assertions for testing emails sent through [MailMug](https://mailmug.net) SMTP Sandbox.
 
 Test your application emails in PHPUnit without sending real emails.
