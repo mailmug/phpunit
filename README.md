@@ -1,8 +1,8 @@
 # MailMug PHPUnit
 
-[![Latest Version](https://img.shields.io/packagist/v/mailmug/phpunit.svg)](https://packagist.org/packages/mailmug/phpunit)
-[![PHP Version](https://img.shields.io/packagist/php-v/mailmug/phpunit.svg)](https://packagist.org/packages/mailmug/phpunit)
-[![License](https://img.shields.io/github/license/mailmug/phpunit/phpunit.svg)](https://github.com/mailmug/phpunit/blob/main/LICENSE)
+[![Latest Version](https://img.shields.io/packagist/v/mailmug/phpunit-email.svg)](https://packagist.org/packages/mailmug/phpunit-email)
+[![PHP Version](https://img.shields.io/packagist/php-v/mailmug/phpunit-email.svg)](https://packagist.org/packages/mailmug/phpunit-email)
+[![License](https://img.shields.io/github/license/mailmug/phpunit/phpunit-email.svg)](https://github.com/mailmug/phpunit/blob/main/LICENSE)
 
 PHPUnit assertions for testing emails sent through [MailMug](https://mailmug.net) SMTP Sandbox.
 
