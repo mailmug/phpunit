@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace MailMug\PHPUnit\Tests;
+namespace MailMug\PHPUnitEmail\Tests;
 
-use MailMug\PHPUnit\MailMugAssertions;
-use MailMug\PHPUnit\MailMugEmail;
+use MailMug\PHPUnitEmail\MailMugAssertions;
+use MailMug\PHPUnitEmail\MailMugEmail;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\Mailer\Mailer;
 use Symfony\Component\Mailer\Transport;

@@ -1,5 +1,5 @@
 {
-    "name": "mailmug/phpunit",
+    "name": "mailmug/phpunit-email",
     "version": "1.0.0",
     "description": "PHPUnit assertions for testing emails with MailMug SMTP Sandbox",
     "type": "library",

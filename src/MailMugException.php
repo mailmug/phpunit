@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MailMug\PHPUnit;
+namespace MailMug\PHPUnitEmail;
 
 use RuntimeException;
 

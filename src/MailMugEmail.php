@@ -1,6 +1,6 @@
 <?php
 
-namespace MailMug\PHPUnit;
+namespace MailMug\PHPUnitEmail;
 
 final class MailMugEmail
 {

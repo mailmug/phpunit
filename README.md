@@ -48,7 +48,7 @@ You can find your API key and inbox ID in your MailMug dashboard.
 ## Basic Usage
 
 ```php
-use MailMug\PHPUnit\MailMugAssertions;
+use MailMug\PHPUnitEmail\MailMugAssertions;
 
 final class WelcomeEmailTest extends TestCase
 {
